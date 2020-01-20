@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Days Until",
+  "name": "Days Until",
   "icons": [
     {
       "src": "favicon.ico",
