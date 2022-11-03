@@ -84,7 +84,9 @@ const App: React.FC = () => {
     { name: `jen`, date: `December 15` },
     { name: `richard`, date: `August 13` },
     { name: `esther`, date: `March 29` },
-    { name: `jamie`, date: `August 11` }
+    { name: `jamie`, date: `August 11` },
+{name:'menna', date: 'January 7'},
+{name:'natalie', date:'October 27'}
   ];
 
   const daysUntil: {
